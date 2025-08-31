@@ -4,12 +4,9 @@
 
 ---
 
-<p>
-  <span style="color:#800080;">🌱 I’m currently learning Full Stack Web Development</span><br>
-  <span style="color:#6a0dad;">🎯 My goal: Become a professional Full Stack Developer</span><br>
-  <span style="color:#7b1fa2;">📚 Always curious to explore new tech</span><br>
-  <span style="color:#9c27b0;">⚡ Fun fact: I learn faster when I build real projects</span>
-</p>
+<h2 style="color:#800080;">💜 About Me</h2>
+
+
 
 ---
 
@@ -34,3 +31,4 @@
 ---
 
 </div>
+
