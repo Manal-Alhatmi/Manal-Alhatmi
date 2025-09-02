@@ -7,7 +7,7 @@ modify this for github <div align="center">
 
 ---
 
-<h2 style="color:#800080;">🌐 Contact Me</h2>
+<h2 style="color:#800080;">🌐 Connect With Me</h2>
 
 <a href="https://linkedin.com/in/manalalhatmi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Manal%20Alhatmi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
