@@ -1,29 +1,64 @@
+👋 Hello, I'm Manal Al Hatmi
+Software Developer | Creative Problem Solver | Tech Enthusiast
 
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=radical&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=Manal-Alhatmi&theme=radical&hide_border=true
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=500&lines=Hi+there+👋+I'm+Manal;Aspiring+Full+Stack+Developer)
+</div>
+🛠️ Technologies & Tools
+Frontend
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
+Backend
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
+Tools
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
----
+🌟 Activity Highlights
+🔥 151 commits in the last year
 
-<h2 style="color:#800080;">🌐 Connect With Me</h2>
+📝 322 pull requests contributed
 
-<a href="https://linkedin.com/in/manalalhatmi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Manal%20Alhatmi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+🤝 1 repository contributed to
 
----
+🐛 0 issues - clean code advocate!
 
-<h2 style="color:#800080;">📊 GitHub Stats</h2>
+📫 Connect With Me
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
+💡 Currently
+🌱 Learning new technologies and best practices
 
----
+💼 Building innovative software solutions
 
-<h2 style="color:#800080;">💡 Random Dev Quote</h2>
+🤝 Open to collaboration on exciting projects
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+🎯 Focusing on web development and clean code
 
----
+📈 Weekly Development
+text
+Frontend Development ████████████░░░ 65%
+Backend Development  ████████░░░░░░░ 45%
+Learning & Research  █████████░░░░░░ 55%
+Tools & Setup        █████░░░░░░░░░░ 25%
+💭 Favorite Quote
+"The real problem with throwaway code comes when it isn't thrown away."
+
+- Joseph Yoder
+
+<div align="center">
+⚡ Turning ideas into reality through code
+🌟 Let's build something amazing together!
+https://komarev.com/ghpvc/?username=Manal-Alhatmi&color=blueviolet&style=flat-square
 
 </div>
