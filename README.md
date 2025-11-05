@@ -9,15 +9,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=🌱+I'm+currently+learning+Web+Development;🎯+My+goal:+Become+a+skilled+Software+Developer;📚+Always+curious+to+learn+something+new+every+day;⚡+Fun+fact:+I+debug+better+with+a+cup+of+tea+☕" alt="Typing Animation"/>
 
-<br>
-
-🌱 **<span style="color:#FFD93D;">I'm currently learning:</span> Web Development** <br>
-🎯 **<span style="color:#6BCF7F;">My goal:</span> Become a skilled Software Developer** <br>
-📚 **<span style="color:#FFFFFF;">Always curious:</span> Learning something new every day** <br>
-⚡ **<span style="color:#FF6B6B;">Fun fact:</span> I debug better with a cup of tea ☕**
-
-</div>
-
 ---
 
 
