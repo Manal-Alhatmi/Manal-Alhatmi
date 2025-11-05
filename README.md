@@ -1,22 +1,36 @@
 <div align="center">
+
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FF6B6B&width=450&lines=✨+Hello+World!+I'm+Manal+Al+Hatmi+✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
+
+---
+
+## 🌈 About Me
+
+<div align="center">
   
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=400&lines=Hi+there+👋+I'm+Manal+Al+Hatmi)
+🎯 **Aspiring Full-Stack Developer** | 🌱 **Continuous Learner** | 💡 **Innovation Enthusiast**
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FFD93D&width=200&lines=🚀+Currently+Learning;💻+Web+Development;☕+Java+%26+Python;🎨+UI%2FUX+Design" alt="Learning" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=6BCF7F&width=200&lines=🎯+Future+Goals;🌐+Full-Stack+Developer;📱+Mobile+Apps;🚀+Open+Source" alt="Goals" />
+    </td>
+  </tr>
+</table>
+
 ---
-:seedling: I'm currently learning Web Development<br>
-:dart: My goal: Become a skilled Software Developer<br>
-:books: Always curious to learn something new every day<br>
-:zap: Fun fact: I can debug better with a cup of tea
 
-## :bar_chart: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dark&border_radius=12" alt="Top Languages" />
+## 🎨 GitHub Stats
 
----
-## :bulb: Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+<div align="center">
 
----
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manalalhatmi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manal-Alhatmi)
+![Stats](https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF&bg_color=0D1117&border_color=6BCF7F)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manal-Alhatmi&theme=dark&hide_border=true&stroke=6BCF7F&background=0D1117&fire=FF6B6B&ring=FFD93D)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&border_color=6BCF7F)
 
+</div>
