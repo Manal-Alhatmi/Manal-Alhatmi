@@ -1,30 +1,41 @@
 <div align="center">
-  
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=400&lines=Hi+there+👋+I'm+Manal+Al+Hatmi)
----
+
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=ff0080&width=450&lines=✨+Hello+World!+I'm+Manal+Al+Hatmi+✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
 
 ---
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manal-Alhatmi&theme=radical&no-frame=true&row=2&column=4)](https://github.com/Manal-Alhatmi)
+
+---
+
+## **🌈 About Me**
+
+<div align="center" style="color:#ff0080;">
+  
+🎯 **Aspiring Full-Stack Developer** | 🌱 **Continuous Learner** | 💡 **Innovation Enthusiast**
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=ff0080&width=200&lines=🚀+Currently+Learning;💻+Web+Development;☕+Java+%26+Python;🎨+UI%2FUX+Design" alt="Learning" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=ff0080&width=200&lines=🎯+Future+Goals;🌐+Full-Stack+Developer;📱+Mobile+Apps;🚀+Open+Source" alt="Goals" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## **📊 GitHub Stats**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=🌱+I'm+currently+learning+Web+Development;🎯+My+goal:+Become+a+skilled+Software+Developer;📚+Always+curious+to+learn+something+new+every+day;⚡+Fun+fact:+I+debug+better+with+a+cup+of+tea+☕" alt="Typing Animation"/>
-
----
-
-
----
-
-## :bar_chart: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dark&border_radius=12" alt="Top Languages" />
-
----
-## :bulb: Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
----
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manalalhatmi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manal-Alhatmi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=radical&hide_border=true)
 
 </div>
