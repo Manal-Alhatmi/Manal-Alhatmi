@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=ff0080&width=450&lines=✨+Hello+World!+I'm+Manal+Al+Hatmi+✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=ff0080&width=450&lines=✨+Hello+World!+I'm+Manal+AlHatmi+✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
 
 ---
 
@@ -17,17 +17,6 @@
 🎯 **Aspiring Full-Stack Developer** | 🌱 **Continuous Learner** | 💡 **Innovation Enthusiast**
 
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=ff0080&width=200&lines=🚀+Currently+Learning;💻+Web+Development;☕+Java+%26+Python;🎨+UI%2FUX+Design" alt="Learning" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=ff0080&width=200&lines=🎯+Future+Goals;🌐+Full-Stack+Developer;📱+Mobile+Apps;🚀+Open+Source" alt="Goals" />
-    </td>
-  </tr>
-</table>
 
 ---
 
