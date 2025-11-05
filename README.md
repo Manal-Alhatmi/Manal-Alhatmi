@@ -33,4 +33,4 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manal-Alhatmi&theme=dark&hide_border=true&stroke=6BCF7F&background=0D1117&fire=FF6B6B&ring=FFD93D)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&border_color=6BCF7F)
 
-</div>
+
