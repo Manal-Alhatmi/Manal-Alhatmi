@@ -4,6 +4,12 @@
 
 ---
 
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manal-Alhatmi&theme=radical&no-frame=true&row=2&column=4)](https://github.com/Manal-Alhatmi)
+
+---
+
 ## 🌈 About Me
 
 <div align="center">
@@ -15,10 +21,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FFD93D&width=200&lines=🚀+Currently+Learning;💻+Web+Development;☕+Java+%26+Python;🎨+UI%2FUX+Design" alt="Learning" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FF6B6B&width=200&lines=🚀+Currently+Learning;💻+Web+Development;☕+Java+%26+Python;🎨+UI%2FUX+Design" alt="Learning" />
     </td>
     <td align="center" width="50%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=6BCF7F&width=200&lines=🎯+Future+Goals;🌐+Full-Stack+Developer;📱+Mobile+Apps;🚀+Open+Source" alt="Goals" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FF6B6B&width=200&lines=🎯+Future+Goals;🌐+Full-Stack+Developer;📱+Mobile+Apps;🚀+Open+Source" alt="Goals" />
     </td>
   </tr>
 </table>
@@ -29,8 +35,16 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF&bg_color=0D1117&border_color=6BCF7F)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manal-Alhatmi&theme=dark&hide_border=true&stroke=6BCF7F&background=0D1117&fire=FF6B6B&ring=FFD93D)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&border_color=6BCF7F)
+![Stats](https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B6B)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manal-Alhatmi&theme=radical&hide_border=true&stroke=FF6B6B&background=0D1117&fire=FF6B6B&ring=FF6B6B)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B6B)
 
+</div>
+
+---
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
