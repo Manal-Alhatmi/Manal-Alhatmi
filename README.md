@@ -2,10 +2,17 @@
   
 ![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=400&lines=Hi+there+👋+I'm+Manal+Al+Hatmi)
 ---
-:seedling: I'm currently learning Web Development<br>
-:dart: My goal: Become a skilled Software Developer<br>
-:books: Always curious to learn something new every day<br>
-:zap: Fun fact: I can debug better with a cup of tea
+
+<div align="center">
+
+🌱 **I'm currently learning:** <span style="color:#FFD93D;">Web Development</span> <br>
+🎯 **My goal:** <span style="color:#6BCF7F;">Become a skilled Software Developer</span> <br>
+📚 **Always curious:** <span style="color:#FFFFFF;">Learning something new every day</span> <br>
+⚡ **Fun fact:** <span style="color:#FF6B6B;">I debug better with a cup of tea ☕</span>
+
+</div>
+
+---
 
 ## :bar_chart: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
