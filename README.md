@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=ff0080&width=450&lines=✨+Hello+World!+I'm+Manal+AlHatmi+✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=ff0080&width=450&lines=✨+Hello+World!+I'm Manal AlHatmi+✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
 
 ---
 
