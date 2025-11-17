@@ -4,12 +4,6 @@
 
 ---
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manal-Alhatmi&theme=radical&no-frame=true&row=2&column=4)](https://github.com/Manal-Alhatmi)
-
----
-
 ## **🌈 About Me**
 
 <div align="center" style="color:#ff0080;">
