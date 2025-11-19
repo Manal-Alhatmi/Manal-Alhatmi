@@ -7,7 +7,7 @@
 
 ## **About Me**
 
-<div align="center">
+<div align="center" style="background: rgba(155, 0, 255, 0.1); padding: 20px; border-radius: 15px; margin: 20px 0; border: 1px solid #5A1A7A;">
 
 ![About Me Typing](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=500&color=9B00FF&width=500&lines=🎯+Aspiring+Full-Stack+Developer;🌱+Continuous+Learner;💡+Innovation+Enthusiast)
 
