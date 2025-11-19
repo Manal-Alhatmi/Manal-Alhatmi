@@ -1,19 +1,7 @@
-<div align="center" style="background-color:#1B1B1B; padding:30px; border-radius:25px; box-shadow: 0 0 25px #BAB8FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin:auto;">
+<div align="center" style="background-color:#1B1B1B; padding:30px; border-radius:30px; box-shadow: 0 0 25px #BAB8FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin:auto;">
 
 <!-- Typing Intro -->
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=BAB8FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
-
----
-
-## **About Me**
-
-<div align="center" style="background: rgba(186, 184, 255, 0.1); padding: 25px; border-radius: 20px; margin: 25px 0; border: 1px solid #BAB8FF; color:#BAB8FF; font-weight:bold; font-size:18px; line-height:1.8;">
-
-🎯 Aspiring Full-Stack Developer  
-🌱 Continuous Learner  
-💡 Innovation Enthusiast
-
-</div>
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=BAB8FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Aspiring+FullStack+Developer;🌱+Continuous+Learner;💡Innovation+Enthusiast;🌟+Welcome+to+my+GitHub!)
 
 ---
 
