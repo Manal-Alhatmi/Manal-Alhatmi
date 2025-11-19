@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,intellij,postman,git,github,vscode,mysql&theme=dark" height="45" style="filter: drop-shadow(0 0 10px #BD00FF);" />
+<img src="https://skillicons.dev/icons?i= java,intellij,postman,git,github,vscode&theme=dark" height="45" style="filter: drop-shadow(0 0 10px #BD00FF);" />
 
 </div>
 
