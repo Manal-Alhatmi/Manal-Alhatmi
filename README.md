@@ -1,16 +1,14 @@
 <div align="center" style="background-color:#1B1B1B; padding:25px; border-radius:20px; box-shadow: 0 0 20px #BD00FF;">
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=FF00FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=BD00FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
 
 ---
 
 ## 🌈 **About Me**
 
-<div align="center" style="color:#FF00FF; font-size: 18px; text-shadow: 0 0 12px #FF00FF, 0 0 20px #BD00FF, 0 0 30px #9400FF;">
+<div align="center">
 
-🎯 **Aspiring Full-Stack Developer**  
-🌱 **Continuous Learner**  
-💡 **Innovation Enthusiast**
+![About Me Typing](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=500&color=9B00FF&width=500&lines=🎯+Aspiring+Full-Stack+Developer;🌱+Continuous+Learner;💡+Innovation+Enthusiast)
 
 </div>
 
