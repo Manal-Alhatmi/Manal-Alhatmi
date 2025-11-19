@@ -6,7 +6,7 @@
 
 ## 🌈 **About Me**
 
-<div align="center" style="color:#BD00FF; font-size: 18px; text-shadow: 0 0 10px #BD00FF;">
+<div align="center" style="color:#FF00FF; font-size: 18px; text-shadow: 0 0 12px #FF00FF, 0 0 20px #BD00FF, 0 0 30px #9400FF;">
 
 🎯 **Aspiring Full-Stack Developer**  
 🌱 **Continuous Learner**  
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i= java,intellij,postman,git,github,vscode&theme=dark" height="45" style="filter: drop-shadow(0 0 10px #BD00FF);" />
+<img src="https://skillicons.dev/icons?i=java,intellij,postman,git,github,vscode&theme=dark" height="45" style="filter: drop-shadow(0 0 10px #BD00FF);" />
 
 </div>
 
