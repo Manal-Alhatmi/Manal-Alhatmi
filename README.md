@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" style="filter: drop-shadow(0 0 15px #BD00FF);" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dracula&hide_border=true" height="170" style="filter: drop-shadow(0 0 15px #BD00FF);" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" style="filter: drop-shadow(0 0 15px #CBA3FF);" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dracula&hide_border=true" height="170" style="filter: drop-shadow(0 0 15px #CBA3FF);" />
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true" style="filter: drop-shadow(0 0 15px #BD00FF);" />
+<img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true" style="filter: drop-shadow(0 0 15px #CBA3FF);" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manal-Alhatmi&theme=high-contrast&color=BD00FF&line=8B00FF&point=FFFFFF&hide_border=true" style="filter: drop-shadow(0 0 15px #BD00FF);" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manal-Alhatmi&theme=high-contrast&color=BD00FF&line=8B00FF&point=FFFFFF&hide_border=true" style="filter: drop-shadow(0 0 15px #CBA3FF);" />
 
 </div>
 
@@ -66,14 +66,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-1A001F?style=for-the-badge&logo=linkedin&logoColor=BD00FF" style="filter: drop-shadow(0 0 12px #BD00FF);" /></a>
-<a href="https://github.com/Manal-Alhatmi"><img src="https://img.shields.io/badge/GitHub-1A001F?style=for-the-badge&logo=github&logoColor=ffffff" style="filter: drop-shadow(0 0 12px #BD00FF);" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-1A001F?style=for-the-badge&logo=linkedin&logoColor=BD00FF" style="filter: drop-shadow(0 0 12px#CBA3FF);" /></a>
+<a href="https://github.com/Manal-Alhatmi"><img src="https://img.shields.io/badge/GitHub-1A001F?style=for-the-badge&logo=github&logoColor=ffffff" style="filter: drop-shadow(0 0 12px #CBA3FF);" /></a>
 
 </div>
 
 ---
 
-<div align="center" style="color:#9B00FF; font-weight:bold; text-shadow: 0 0 8px #9B00FF, 0 0 15px #BD00FF, 0 0 25px #9400FF; font-size:17px;">
+<div align="center" style="color:#CBA3FF; font-weight:bold; text-shadow: 0 0 8px #CBA3FF, 0 0 15px #CBA3FF, 0 0 25px #CBA3FF; font-size:17px;">
 
 💜⚡ *Welcome to my GitHub — explore my projects and contributions!* ⚡💜
 
