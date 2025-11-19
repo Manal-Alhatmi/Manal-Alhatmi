@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#1B1B1B; padding:20px; border-radius:15px;">
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=BD00FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Full-Stack+Java+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=BD00FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Passionate+Developer;🚀+Creative+Problem+Solver;🌟+Welcome+to+my+GitHub!)
 
 ---
 
@@ -8,7 +8,7 @@
 
 <div align="center" style="color:#BD00FF; font-size: 18px; text-shadow: 0 0 10px #BD00FF;">
 
-🎯 **Full-Stack Java Developer**  
+🎯 **Aspiring Full-Stack Developer**  
 🌱 **Continuous Learner**  
 💡 **Innovation Enthusiast**
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,intellij,postman,git,github,vscode,react,spring,html,css,mysql&theme=dark" height="45" style="filter: drop-shadow(0 0 10px #BD00FF);" />
+<img src="https://skillicons.dev/icons?i=java,intellij,postman,git,github,vscode,mysql&theme=dark" height="45" style="filter: drop-shadow(0 0 10px #BD00FF);" />
 
 </div>
 
