@@ -5,13 +5,13 @@
 
 ---
 
-## 🌈 **About Me**
+## **About Me**
 
 <div align="center" style="font-family: 'Orbitron', monospace; color:#9B00FF; font-size:20px; font-weight:bold; text-shadow: 0 0 8px #9B00FF, 0 0 15px #BD00FF, 0 0 25px #9400FF; line-height:1.8;">
 
-🎯 **Aspiring Full-Stack Developer**  
-🌱 **Continuous Learner**  
-💡 **Innovation Enthusiast**
+**Aspiring Full-Stack Developer** 🎯  
+     **Continuous Learner**  🌱
+   **Innovation Enthusiast**💡
 
 </div>
 
