@@ -19,17 +19,6 @@
 <img src="https://img.shields.io/badge/Networking-0a66c2?style=for-the-badge&logo=network&logoColor=white" style="margin:5px;"/>
 </p>
 
----
-
-## 📊 **GitHub Stats & Top Languages**
-
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-bottom:25px;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=BAB8FF&icon_color=BAB8FF&text_color=BAB8FF" height="160" style="filter: drop-shadow(0 0 15px #BAB8FF);"/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dracula&hide_border=true&title_color=BAB8FF&text_color=BAB8FF&bg_color=1B1B1B" height="160" style="filter: drop-shadow(0 0 15px #BAB8FF);"/>
-
-</div>
 
 ---
 
