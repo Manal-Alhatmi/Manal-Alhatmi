@@ -4,12 +4,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-BAB8FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-8A88FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mindset-Growth-6C63FF?style=flat-square"/>
-
-<br/><br/>
-
 <h2>🛠️ Tech & Tools</h2>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
