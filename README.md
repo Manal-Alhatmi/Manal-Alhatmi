@@ -1,51 +1,69 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=BAB8FF&width=600&lines=✨+Hello+World!+I'm+Manal✨;💻+Aspiring+FullStack+Developer;🌱+Continuous+Learner;💡+Innovation+Enthusiast;🌟+Welcome+to+my+GitHub!" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2200&pause=600&color=BAB8FF&center=true&vCenter=true&width=700&lines=✨+Hello+World!+I'm+Manal+✨;💻+Aspiring+Full+Stack+Developer;🌱+Always+Learning+New+Technologies;💡+Innovation+%26+Problem+Solving;🚀+Welcome+to+My+GitHub!" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-BAB8FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-8A88FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mindset-Growth-6C63FF?style=flat-square"/>
+
+<br/><br/>
+
+<h2>👩‍💻 About Me</h2>
+
+<p>
+💻 Aspiring <b>Full Stack Developer</b><br/>
+🌱 Improving backend & frontend skills<br/>
+🧠 Passionate about clean code<br/>
+🚀 Building real-world projects<br/>
+✨ Always curious, always learning
 </p>
 
----
+<hr/>
 
-## 🛠️ Tech & Tools
+<h2>🛠️ Tech & Tools</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<hr/>
+
+<h2>🔥 Contribution Streak</h2>
+
+<img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true&ring=BAB8FF&fire=BAB8FF&currStreakNum=BAB8FF&sideNums=BAB8FF&currStreakLabel=BAB8FF" />
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=dracula&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dracula&hide_border=true" />
+
+<hr/>
+
+<h2>📈 Activity Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manal-Alhatmi&theme=react-dark&hide_border=true&color=BAB8FF&line=BAB8FF&point=FFFFFF" />
+
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
+
+<a href="https://www.linkedin.com/in/manalalhatmi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Manal-Alhatmi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</a>
 
----
+<br/><br/>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manal-Alhatmi&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manalalhatmi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Manal-Alhatmi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   💜⚡ <b>Welcome to my GitHub — explore my projects and contributions!</b> ⚡💜
