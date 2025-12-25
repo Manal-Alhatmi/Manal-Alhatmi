@@ -10,18 +10,6 @@
 
 <br/><br/>
 
-<h2>👩‍💻 About Me</h2>
-
-<p>
-💻 Aspiring <b>Full Stack Developer</b><br/>
-🌱 Improving backend & frontend skills<br/>
-🧠 Passionate about clean code<br/>
-🚀 Building real-world projects<br/>
-✨ Always curious, always learning
-</p>
-
-<hr/>
-
 <h2>🛠️ Tech & Tools</h2>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,19 +19,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<hr/>
-
-<h2>🔥 Contribution Streak</h2>
-
-<img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true&ring=BAB8FF&fire=BAB8FF&currStreakNum=BAB8FF&sideNums=BAB8FF&currStreakLabel=BAB8FF" />
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manal-Alhatmi&show_icons=true&theme=dracula&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Alhatmi&layout=compact&theme=dracula&hide_border=true" />
 
 <hr/>
 
