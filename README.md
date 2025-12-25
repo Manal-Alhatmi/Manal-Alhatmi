@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" style="margin:5px;"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin:5px;"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="margin:5px;"/>
-<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" style="margin:5px;"/>
 <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;"/>
 <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" style="margin:5px;"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" style="margin:5px;"/>
