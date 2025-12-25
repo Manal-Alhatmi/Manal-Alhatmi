@@ -20,14 +20,11 @@
 
 
 ---
+## 🔥 Contribution Streak
 
-## 🔥 **Contribution Streak**
-
-<div align="center" style="margin-bottom:25px;">
-
-<img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true&background=1B1B1B&stroke=BAB8FF&currStreakNum=BAB8FF&sideNums=BAB8FF&currStreakLabel=BAB8FF" style="filter: drop-shadow(0 0 15px #BAB8FF);" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manal-Alhatmi&theme=dracula&hide_border=true&background=1B1B1B&stroke=BAB8FF&currStreakNum=BAB8FF&sideNums=BAB8FF&currStreakLabel=BAB8FF" />
+</p>
 
 ---
 
